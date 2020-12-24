@@ -24,5 +24,3 @@ while turn < args.iterations:
 	print(last_num)
 	last_num = next_num
 	turn += 1
-	# break
-print(last_num)
